@@ -2,39 +2,7 @@
 
 Welcome to **Food & Restaurant App** – your one-stop solution for seamless food ordering, restaurant management, and user authentication. Built with **Node.js**, **Express.js**, and **MongoDB**, this app ensures a smooth experience for both users and restaurant owners. 🚀
 
----
 
-## 🌟 Key Features
-
-### 🔐 **Authentication & User Management**
-✔️ Register & Login securely
-✔️ Update user profile & password
-✔️ Reset forgotten passwords
-✔️ Delete user accounts
-
-### 🍽️ **Restaurant Management**
-✔️ Add new restaurants
-✔️ Fetch all available restaurants
-✔️ View restaurant details by ID
-✔️ Remove a restaurant from the platform
-
-### 🏷️ **Category Management**
-✔️ Create & manage food categories
-✔️ Fetch all available categories
-✔️ Update & delete categories
-
-### 🍕 **Food Item Management**
-✔️ Add delicious food items
-✔️ View all food items
-✔️ Get food items by restaurant ID
-✔️ Update & delete food items
-
-### 🛒 **Order Processing & Tracking**
-✔️ Place new orders
-✔️ Update order status
-✔️ Manage restaurant-specific orders
-
----
 
 ## 🚀 Quick Start Guide
 
