@@ -128,10 +128,4 @@ Feel free to:
 - [JWT](https://jwt.io/)  
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 
----
 
-## 🚀 Final Thoughts
-
-> **“Serving code, one bite at a time — because great food deserves great tech.”**
-
----
